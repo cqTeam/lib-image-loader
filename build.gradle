@@ -13,6 +13,9 @@ buildscript {
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
+
+        // 用于构建 jitpack 库
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1' // Add this line
     }
 }
 
