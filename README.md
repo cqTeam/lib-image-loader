@@ -1,4 +1,4 @@
-# lib_image_loader
+# lib-image-loader
 图片加载框架
 
 ## 技术点
